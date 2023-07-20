@@ -4,9 +4,9 @@ Sinopsis Naskah :
 
 Buku ini berisikan sebuah panduan bagi pembaca yang ingin menambah wawasan dalam bidang programming, terdapat salah satu cara untuk membuat sebuah website dan mengintegrasikan go dan javascript dalam pembuatan website webservice dalam studi kasus surat menyurat.
 Cover Buku:
-![1](https://github.com/bukped/Book/assets/127081929/c62ace8e-7441-4ab4-9b56-ec2e855ab43b)
+![1](https://github.com/bukped/Book/assets/127081929/5499f393-8ccc-4670-884c-cc2608b4c84c)
 
-![2](https://github.com/bukped/Book/assets/127081929/70e31997-05d6-4c09-b7f8-5e1b404efb56)
+![2](https://github.com/bukped/Book/assets/127081929/d613b5d2-38a1-4f4c-af48-ce96a563a9e8)
 
 Foto Penulis
 
